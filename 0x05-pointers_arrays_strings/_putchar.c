@@ -12,7 +12,7 @@
 
 
 
-int _putchar(char c)
+int _putchar(str[i]); 
 {
 	return (write(1, &c, 1));
 
