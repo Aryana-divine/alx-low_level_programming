@@ -9,6 +9,8 @@ int main(void)
 	p = &n;
 
 	/*
+	 * * string main
+	 *
 	 * * write your line of code here...
 	 *
 	 * * Remember:
